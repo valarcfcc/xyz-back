@@ -22,7 +22,6 @@ import lombok.Getter;
  * <p>
  * 数据权限枚举
  * </p>
- * @date 2020-05-07
  */
 @Getter
 @AllArgsConstructor

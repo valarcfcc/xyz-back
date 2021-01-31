@@ -16,10 +16,10 @@
 package com.valar.exception.handler;
 
 import lombok.extern.slf4j.Slf4j;
-import me.zhengjie.exception.BadRequestException;
-import me.zhengjie.exception.EntityExistException;
-import me.zhengjie.exception.EntityNotFoundException;
-import me.zhengjie.utils.ThrowableUtil;
+import com.valar.exception.BadRequestException;
+import com.valar.exception.EntityExistException;
+import com.valar.exception.EntityNotFoundException;
+import com.valar.utils.ThrowableUtil;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.BadCredentialsException;

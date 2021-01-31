@@ -16,7 +16,7 @@
 package com.valar.utils;
 
 import cn.hutool.core.util.ObjectUtil;
-import me.zhengjie.exception.BadRequestException;
+import com.valar.exception.BadRequestException;
 import org.hibernate.validator.internal.constraintvalidators.hv.EmailValidator;
 
 /**
